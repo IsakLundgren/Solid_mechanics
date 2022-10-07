@@ -115,3 +115,6 @@ print(Ex[0, :])
 for el in range(nel):
     Ke, fe = cco.platre(Ex[el, :], Ey[el, :], [thickness], D, eq[el])
     K, f = cco.assem(Edof[el,:], K, Ke, f, fe)
+
+
+    #done hehe
