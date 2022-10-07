@@ -62,3 +62,5 @@ print(w(L[1], 1) * 1000)
 print(sigma_xx(0, 0))
 print(sigma_xx(0, 1))
 plt.show()
+
+#Gaming
